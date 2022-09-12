@@ -1,7 +1,7 @@
 <h1 align="center">To-do-List</h1>
 
 ## :memo: Descrição
-To-do-List feito com react, aplcaçao feita para treinar conceitos de react.
+To-do-List feito com react, aplicação feita para treinar conceitos de react.
 
 ## :books: Funcionalidades
 Adicona uma tarefa, marca como feita e deleta

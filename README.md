@@ -25,11 +25,6 @@ Project link
   </tr>
 </table>
 
-## :dart: Status do projeto
-
-
-![column](https://user-images.githubusercontent.com/104034703/187053912-41cedb3b-58ed-4693-87b8-5c68567f8c2d.PNG)
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
